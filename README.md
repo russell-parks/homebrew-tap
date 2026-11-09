@@ -6,7 +6,7 @@ Prebuilt macOS arm64 packages of [russell-parks/codex](https://github.com/russel
 
 | Formula | Version |
 | --- | --- |
-| `codex-fork` | 0.163.0 |
+| `codex-fork` | 0.167.0 |
 | `codex-fork@0.162` | 0.162.1 |
 | `codex-fork@0.163` | 0.163.0 |
 
