@@ -2,7 +2,6 @@ class CodexForkAT0162 < Formula
   desc "Codex CLI with Russell Parks' worktree, authentication, and telemetry patches"
   homepage "https://github.com/russell-parks/codex"
   url "https://github.com/russell-parks/codex/releases/download/fork-v0.162.1/codex-package-aarch64-apple-darwin.tar.gz"
-  version "0.162.1"
   sha256 "9e94de95dabfd881ba34d6f6cbf013b3418bfe92bc9c13a77aac9ad51d8150fc"
   license "Apache-2.0"
 
